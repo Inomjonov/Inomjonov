@@ -15,4 +15,4 @@ I'm a Machine Learning Engineer with a passion for developing innovative solutio
 
 ## 💬 Let's Connect
 - Feel free to reach out if you want to discuss machine learning, data science, or anything else! You can connect with me on [LinkedIn](https://www.linkedin.com/in/mironshoh-inomjonov)
-- Join my telegram channel, I am sharing useful staff for ML engineers. [Telegram channel](mironshohinomjonov.t.me)
+- Join my telegram channel, I am sharing useful staff for ML engineers. [Telegram channel](https://t.me/mironshohinomjonov)
