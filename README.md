@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Mironshoh Inomjonov
 
-I'm a Machine Learning Engineer with a passion for developing innovative solutions to complex problems. Currently, I'm working at [kpi.com](https://www.kpi.com/) where I'm involved in creating data-driven insights and building machine learning models to automate business processes.
-
+I'm a Machine Learning Engineer with a interest in developing innovative solutions to complex problems. Currently, I'm working at [Vention]([https://www.kpi.com/](https://ventionteams.com/)) where I'm involved NLP and Computer Vision projects. 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python, Scala, Ruby
+- Programming Languages: Python
 - Machine Learning Frameworks: PyTorch, Scikit-learn
+- Fields: Computer Vision, NLP (TTS, STT)
 - Web-frameworks: FastAPI, Streamlit, Tkinter, Kivy
 - Data Visualization: Matplotlib
 - Tools: Jupyter Notebook, Git, Docker
